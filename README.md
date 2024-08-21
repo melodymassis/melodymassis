@@ -1,7 +1,7 @@
 - 👋 Hi there! I’m @melodymassis
-- 🌱 I’m currently learning a ton through my MBA program
-- 💞️ I’m looking to collaborate on a project with heart, and why not think big? Let's talk Star Trek level stuff 
-- 📫 How to reach me? Drop me a line on Linkedin: https://www.linkedin.com/in/melody-lamphear/ 
+- 🌱 After completing my MBA program at Haas, I continue to grow my knowledge through the MIDS program at Berkeley.
+- 💞️ Passionate about EdTech and Health related projects, and building tech to support it
+- 📫 How to reach me? Drop me a line on Linkedin: https://www.linkedin.com/in/melody-masis/ 
 
 <!---
 melodymassis/melodymassis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
